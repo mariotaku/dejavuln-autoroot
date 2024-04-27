@@ -28,8 +28,11 @@ Right now, unless you messed with the "NSU Mode" setting in the Instart menu
 1. Download the latest release (*not* the files named "Source code") from the
    [Releases](https://github.com/throwaway96/dejavuln-autoroot/releases)
    page.
+   ![Releases](https://github.com/mariotaku/dejavuln-autoroot/assets/830358/0f6ab7b8-a0cf-47e5-8741-88296f934e0b)
 2. Extract the archive to the root directory of a USB drive. (It should be
-   formatted with FAT32 or NTFS and only have one partition.)
+   formatted with FAT32 or NTFS and only have one partition, and placed
+   like screenshot below.)
+   ![Correct file placement](https://github.com/mariotaku/dejavuln-autoroot/assets/830358/b066c827-2d84-425f-bcef-943ee8a19545)
 3. Plug the USB drive into your TV. (Make sure it's the only USB drive
    connected.)
 4. Open the USB drive in the Music app and browse to
